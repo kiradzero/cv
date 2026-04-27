@@ -2,66 +2,30 @@
 layout: default
 ---
 
-# Рощин Кирилл Денисович  
-Разработчик, студент, IT-энтузиаст
+# Kira Yakovenko
+Developer, Student, IT Enthusiast
 
 <div id="webaddress">
-  <a href="mailto:kirill.aicelly@yandex.ru">kirill.aicelly@yandex.ru</a>
-  | <a href="mailto:kira0void@proton.me">kira0void@proton.me</a>
+  <a href="mailto:kira0void@proton.me">kira0void@proton.me</a>
 </div>
 
-## О себе
+## About Me
 
-Я родился в 2006 году в Краснодаре. Занимаюсь программированием с раннего возраста: начал с **Python**, где освоил прикладное ООП и базовые приёмы промышленной разработки. Сейчас активно изучаю **Zig**, развивая собственные низкоуровневые проекты. Имею опыт в веб-разработке: создаю серверную логику, интерфейсы на современных фронтенд-фреймворках, а также разрабатываю **Telegram-ботов**. Постоянно работаю в среде **Linux**.
-## Образование
+I was born in 2006. I have been programming from an early age: I started with **Python**, where I learned applied object-oriented programming and basic industrial development practices. Currently, I am actively studying **Zig**, developing my own low-level projects. I have experience in web development: I build server-side logic, create interfaces using modern frontend frameworks, and develop **Telegram bots**. I work continuously in a **Linux** environment.
 
-`2022–2023`  
-__Основы программирования на Python__, Лицей Академии Яндекса
+## Skills
 
-`2023–2024`  
-__Основы промышленного программирования__, Лицей Академии Яндекса
+- **Programming Languages:**  
+  Python; Zig; C; Kotlin; Java; TypeScript/JavaScript; Bash
+- **Graphics / Low-level Development:**  
+  Vulkan
+- **Web Development:**  
+  Backend (Python), Frontend (Svelte), Telegram bot development
+- **Operating Systems:**  
+  Arch Linux (daily use)
+- **Professional Development:**  
+  Focused on participating in real-world projects to deepen engineering competencies.
 
-`2024 – н.в.`  
-__Северо-Кавказский федеральный университет__  
-Направление: «Электроника и наноэлектроника»
+## Additional Information
 
-## Навыки
-
-- **Языки программирования:**  
-  Python; Zig, C; TypeScript/JavaScript; Bash
-- **Веб-разработка:**  
-  Backend (Python), frontend (Svelte), разработка Telegram-ботов
-- **Операционные системы:**  
-  Arch Linux (ежедневная работа)
-- **Профессиональное развитие:**  
-  Ориентирован на участие в реальных проектах для углубления инженерных компетенций.
-
-## Проекты
-
-- **[Portfoly](https://codeberg.org/Anofio/Portfoly)**  
-  Прототип веб-платформы для публикации и демонстрации проектов.  
-  _Технологии: Flask, Svelte, SQLite, JWT_  
-  ![Portfoly](https://i.ibb.co/B5rCd8hm/Screenshot-from-2025-02-23-12-05-37.png)
-
-- **[Unipkg](https://codeberg.org/Anofio/unipkg)**  
-  Интерактивная GUI-обёртка над пакетными менеджерами Linux с системой модулей.  
-  _Технологии: Python, Qt 6_  
-  ![Unipkg](https://i.ibb.co/v1QV5P1/mainw.png)
-
-- **[Strive](https://codeberg.org/dzerokira/strive)**  
-  Рабочий прототип 3D-движка, поддержка анимаций, загрузки моделей, высокоэффективного 3D рендера  
-  _Технологии: Zig, Vulkan, GLTF, etc._  
-  ![Strive](https://imgur.com/a/2jIa61Z)
-
-## Сертификаты
-
-**Сертификаты Лицея Академии Яндекса**
-
-<div class="certificates">
-  <img src="https://i.ibb.co/jZkW2pyT/IMG-20250223-122303.jpg" alt="Основы программирования на Python">
-  <img src="https://i.ibb.co/Vp2hMjMF/IMG-20250223-122347.jpg" alt="Основы промышленного программирования">
-</div>
-
-## Дополнительная информация
-
-Будет дополнено.
+To be added.
